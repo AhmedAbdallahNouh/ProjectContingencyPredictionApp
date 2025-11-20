@@ -21,7 +21,7 @@ namespace ProjectContingencyPredictionApp
 			var formattedPercentage = (roundedValue * 100);
 			formattedPercentage = Math.Round(formattedPercentage, 2);
 
-			lblResult.Text = $"The Perdicted Project Contingency for ICLP is [{roundedValue}] as a Percentage is [{formattedPercentage} % ] ";
+			lblResult.Text = $"The Predicted Project Contingency for ICLP is [{roundedValue}] as a Percentage is [{formattedPercentage} % ] ";
 			//label2.Text = $"";
 
 		}

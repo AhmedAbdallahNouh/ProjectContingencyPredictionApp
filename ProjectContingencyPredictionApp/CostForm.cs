@@ -11,29 +11,29 @@ namespace ProjectContingencyPredictionApp
 		{
 			InitializeComponent();
 
-			textBox1.Text = "0.0545";
-			textBox1.ReadOnly = true;
+			//textBox1.Text = "0.0545";
+			//textBox1.ReadOnly = true;
 			
-			firsttxtbx.Text = "0.0351";
-			firsttxtbx.ReadOnly = true;
+			//firsttxtbx.Text = "0.0351";
+			//firsttxtbx.ReadOnly = true;
 
-			textBox9.Text = "0.0367";
-			textBox9.ReadOnly = true;
+			//textBox9.Text = "0.0367";
+			//textBox9.ReadOnly = true;
 
-			textBox12.Text = "0.0187";
-			textBox12.ReadOnly = true;
+			//textBox12.Text = "0.0187";
+			//textBox12.ReadOnly = true;
 
-			textBox27.Text = "0.0502";
-			textBox27.ReadOnly = true;
+			//textBox27.Text = "0.0502";
+			//textBox27.ReadOnly = true;
 
-			textBox15.Text = "0.0189";
-			textBox15.ReadOnly = true;
+			//textBox15.Text = "0.0189";
+			//textBox15.ReadOnly = true;
 
-			textBox18.Text = "0.0451";
-			textBox18.ReadOnly = true;
+			//textBox18.Text = "0.0451";
+			//textBox18.ReadOnly = true;
 
-			textBox21.Text = "0.0814";
-			textBox21.ReadOnly = true;
+			//textBox21.Text = "0.0814";
+			//textBox21.ReadOnly = true;
 
 			
 		}

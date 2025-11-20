@@ -11,27 +11,27 @@ namespace ProjectContingencyPredictionApp
 			InitializeComponent();
 			CostFactorsSum = costSum;
 
-			textBox1.Text = "0.1026";
-			textBox1.ReadOnly = true;
+			//textBox1.Text = "0.1026";
+			//textBox1.ReadOnly = true;
 
-			firsttxtbx.Text = "0.0423";
-			firsttxtbx.ReadOnly = true;
+			//firsttxtbx.Text = "0.0423";
+			//firsttxtbx.ReadOnly = true;
 
-			textBox9.Text = "0.0203";
-			textBox9.ReadOnly = true;
+			//textBox9.Text = "0.0203";
+			//textBox9.ReadOnly = true;
 
-			textBox12.Text = "0.0175";
-			textBox12.ReadOnly = true;
+			//textBox12.Text = "0.0175";
+			//textBox12.ReadOnly = true;
 
-			textBox27.Text = "0.0175";
-			textBox27.ReadOnly = true;
+			//textBox27.Text = "0.0175";
+			//textBox27.ReadOnly = true;
 
 			
-			textBox15.Text = "0.0097";
-			textBox15.ReadOnly = true;
+			//textBox15.Text = "0.0097";
+			//textBox15.ReadOnly = true;
 
-			textBox18.Text = "0.0111";
-			textBox18.ReadOnly = true;
+			//textBox18.Text = "0.0111";
+			//textBox18.ReadOnly = true;
 
 		}
 
