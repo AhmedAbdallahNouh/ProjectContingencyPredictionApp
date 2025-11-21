@@ -11,23 +11,6 @@ namespace ProjectContingencyPredictionApp
 		{
 			InitializeComponent();
 			CostTimeFactorsSum = costTimeSum;
-
-			//textBox1.Text = "0.0937";
-			//textBox1.ReadOnly = true;
-
-			//firsttxtbx.Text = "0.1430";
-			//firsttxtbx.ReadOnly = true;
-
-			//textBox9.Text = "0.1361";
-			//textBox9.ReadOnly = true;
-		
-			//textBox27.Text = "0.0265";
-			//textBox27.ReadOnly = true;
-
-			//textBox15.Text = "0.0423";
-			//textBox15.ReadOnly = true;
-
-
 		}
 
 		private void label1_Click(object sender, EventArgs e)
